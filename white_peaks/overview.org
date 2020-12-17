@@ -1,0 +1,26 @@
+* White Peaks Campaign Overview
+This is the first Zweihander campaign for both us (Joe and Greg) and our
+players. As such, it is intended to provide a "tutorial" experience and run
+the players over most of the major game systems.
+
+** Setting: The White Peaks
+The party begins their journey at the fortress of Bramhall, situated in the
+rough and high mountain passes between the White Peaks. Bramhall is a
+frontier fortress of the expansionist Kriegmarck, and is ordinally a
+lightly-populated trader fort, built and owned by the respected Bram family.
+However, a large horde of Skrellyng savages have recently passed near and at
+currently occupying the lands surrounding Bramhall. Most of the farmers and
+rural peoples have fled to the safety of the fortress, and the Count's
+influence extends a very short distance beyond the walls.
+
+** Act I: Delicate Dealings
+The player party is approached by the Count, Morton Bram, as hired arms to
+deal with a delicate situation: Bram's eldest son, Connor, is missing and has
+been since the Skrellyng appearing nearly two weeks hence. The Count, of
+course, maintains his own military operations, so a natural question arises
+as to why he needs the help of five iterant vagabonds. The answer is that
+the Count's hold on power is firm... but the issue of the succession is less
+certain.
+
+Succesion in a Marck is *elective*. This means all the landholders vote from
+among the ruling family to select the next ruler of the Marck.
