@@ -37,11 +37,11 @@ concerns, Morton concludes that you should take some time to purchase
 supplies and arms for your journey and then sally forth.
 
 The players hopefully screw around in town trying to ready themselves for a
-while (see EP1) before venturing to the gates. At the gates, they need to do
+while (see `scenes/town_pool.org) before venturing to the gates. At the gates, they need to do
 social intrigue to talk their way past a guard who doesn't accept Morton's
 note (scenes/gate.org) or deal with him elseways (murder hobos). After
-exiting the walls, the players draw from a plains encounter pool (EP2) and
-prepare to act on their plan to find Connor.
+exiting the walls, the players draw from a plains encounter pool
+(`scenes/plains_pool.org`) and prepare to act on their plan to find Connor.
 
 ** Act II: The Icemarsh
 
