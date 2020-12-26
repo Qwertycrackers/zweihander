@@ -1,0 +1,31 @@
+* Bramhall Tavern
+The tavern is lively, but not overly raucous at this time of day. Patrons
+nurse their midday ale over lunch, or sleep off their drink in a quiet booth.
+The tense mood present throughout the town feels lessened here. The bartender
+notices you but pretends not to.
+
+** Occupants
+   - Many patrons are varying levels of drunk. If the party talks to them,
+   roll between overly friendly, belligerent, helpful, and utterly
+   incomprehensible. A bar brawl will erupt with 3 patrons if at all.
+
+   - The bartender is the most informative person in the tavern. He can
+   tell the players any rumor that should he publically known, and will tell
+   the sad tale of the Madman if chatted with, but won't be friendly until
+   you buy a drink (4 bp). If the players spend a while and befriend the
+   bartender, he might suggest they are being watched.
+
+   - A man drinking alone can explain that he is the father of the Madman. A
+   few months ago, his son began acting strangely. Disobeying orders,
+   sleeping at odd hours, rambling to nothing, the like. A few weeks ago his
+   son went missing, but by the time he learned of this, the Skrellyng had
+   moved in and it was no longer safe to search outside the town for him. The
+   man, upon learning that your party will be leaving, asks you to look out
+   for his son and bring him home.
+** Hidden
+   - Sir Leo is here, watching the players surreptitously. A successful
+   Awareness test would reveal that he is watching them, but the players
+   won't know to make it.
+
+   - 
+
