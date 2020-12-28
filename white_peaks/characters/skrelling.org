@@ -1,0 +1,24 @@
+* Standard skrelling
+** Stats
+CB: 35 4
+AB: 35 4
+BB: 35 4
+PR: 27 2
+IB: 15 1
+WB: 30 3
+FB: 30 3
+
+Damage threshold: 4
+Peril: 3
+** Traits
+
+** Skill Ranks
+Survival I
+Martial Melee I OR  Martial Ranged I
+Simple Melee
+Coordination I
+Toughness I
+Navigation II
+Awareness I
+** Trappings
+Fur coats, moccasins, hatchet OR spear OR club OR bow and 10 arrows

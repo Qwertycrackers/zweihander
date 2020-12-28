@@ -44,4 +44,14 @@ exiting the walls, the players draw from a plains encounter pool
 (`scenes/plains_pool.org`) and prepare to act on their plan to find Connor.
 
 ** Act II: The Icemarsh
+After neutralizing the Madman, the players may choose what do with him. If
+they take him back to down, his father may congratulate you in the tavern,
+and will pay you the prize he was offering (10g) and give you his favorite
+dragon pistol along with 20 shot to keep you safe on your mission. The Madman
+(Jake) will then join your party.
 
+If the players do not bring the Madman back, he will still remember his old
+memories and join the players. On the road back, they will encounter the two
+Skrellyng dragging ??? and need to free him. Once they do this, ??? is in the
+party and any captured Skrellyng will know that they were ordered to capture
+an arcanist by Marshal van Graff. 

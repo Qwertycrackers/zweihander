@@ -1,0 +1,5 @@
+* Session 1 Notes
+  - The player all choose stupid names
+
+** Madman fight
+Madman stats are all 30s, no armor, dirk weapon.

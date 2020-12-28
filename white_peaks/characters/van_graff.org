@@ -1,0 +1,24 @@
+* Marshal van Graff
+** Stats
+CB: 45 7
+AB: 35 4
+BB: 35 5
+PR: 40 5
+IB: 25 2
+WB: 50 8
+FB: 20 3
+
+** Traits
+Lightning reaction: gain +1 AP every turn, only for dodging and parrying
+Overwhelming Force: critical hits Ruin! enemy shield
+** Skill Ranks
+Survival II
+Martial Melee III
+Coordination II
+Toughness III
+Navigation II
+Intimidate II
+Education I
+Scrutinze I
+** Trappings
+zweihander, mail armor (+4 threshhold)
