@@ -54,4 +54,40 @@ If the players do not bring the Madman back, he will still remember his old
 memories and join the players. On the road back, they will encounter the two
 Skrellyng dragging ??? and need to free him. Once they do this, ??? is in the
 party and any captured Skrellyng will know that they were ordered to capture
-an arcanist by Marshal van Graff. 
+an arcanist by Marshal van Graff. Unfortunately, they do not speak the common
+tounge and will thus be worthless unless a translator can be found.
+
+Further into the wilderness, the players may travel and encounter a number of
+*wilderness encounters*. They must complete at least two before the final
+encounter may even be rolled (van Graff at the farm house)Unfortunately, they
+do not speak the common
+tounge and will thus be worthless unless a translator can be found.
+
+Further into the wilderness, the players may travel and encounter a number of
+*wilderness encounters*. They must complete at least two before the final
+encounter may even be rolled (van Graff at the farm house). They are listed
+below, and full info is contained in the relevant scene files. After every
+length of travel, roll 20% chance to have an encounter and if true, select
+one from the following list.
+
+*** 0 Caravan (caravan.org)
+A caravan trundles down the road toward you, laden with goods and swaying in
+the chill breeze.
+
+*** 1 Refugees (refugees.org)
+A group of what appear to be poor farmers approach to pass you on the road.
+The whole family is traveling, and a pregnant woman and young child are
+riding what is presumably the family's lone horse.
+
+If asked, they will explain that a Skrellyng warband took up residence in a
+nearby farmhouse and, fearing for their lives, they fled, knowing rape and
+plunder were now only a young savage's whimsy away. The family is hungry, low
+on food, and needs medicine for the children and wife. They ask if you can
+spare any of these things, and if the player help them. 
+
+*** 2 Bear
+A bear appears in the distance. Roll awareness to notice it. If the bear
+notices them, 80% that it is hungry and immediately aggressive. Otherwise it
+will only attack when provoked. If they successfully feed or otherwise
+befriend the bear, it will follow them and appear to help at the farmhouse
+battle.
