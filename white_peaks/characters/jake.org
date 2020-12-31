@@ -1,0 +1,25 @@
+* Jake
+** Stats
+CB: 25 2
+BB: 20 2
+AG: 30 3
+PR: 40 5
+IB: 45 6
+WB: 25 2
+FB: 30 3
+
+** Traits
+Seizures: when taking peril, roll an easy Willpower test to avoid seizing
+** Skill Ranks
+Survival I
+Scruntinize I
+Education I
+
+** Trappings
+tattered clothes
+
+** Prone
+
+** Damage + Peril
+Lightly
+Unhindered

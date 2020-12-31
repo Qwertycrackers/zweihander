@@ -1,0 +1,19 @@
+* Skrellyng Shaman
+** Stats
+CB: 35 3
+AB: 35 4
+BB: 35 3
+PR: 25 3
+IB: 35 5
+WB: 25 3
+FB: 20 3
+
+** Traits
+** Skill Ranks
+Incantation I
+Navigation II
+Education I
+
+** Trappings
+zweihander, mail armor (+4 threshhold)
+
