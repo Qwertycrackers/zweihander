@@ -72,7 +72,8 @@ one from the following list.
 
 *** 0 Caravan (caravan.org)
 A caravan trundles down the road toward you, laden with goods and swaying in
-the chill breeze.
+the chill breeze. The merchants are in high spirits and ready to trade. They
+also may have news.
 
 *** 1 Refugees (refugees.org)
 A group of what appear to be poor farmers approach to pass you on the road.
@@ -95,12 +96,14 @@ battle.
 *** 3 Mercenaries (mercs.org)
 You encounter a group of four men of war riding toward Bramhall. They are
 tense but in good spirits, hungry to fight. They are riding to offer their
-services to Lord Morton in his efforts to pacify the Skrellyng. If the
+services to miltary leaders in the broiling conflict. If the
 players want to recruit them, their fee is 15g weekly, plus half of any
 liquid loot encountered. They would also be happy to buy extra ammo or
 weapons, or sell the same in addition to possibly rendering the healer's
 services.
 
+(These are the same mercs the players will later encounter at the farmhouse
+if not here)
 *** 4 Slaughter (slaughter.org)
 You feel a grim darkness before you see it: just over the crest of a hill,
 you find what must be the remains of a merciless Skrellyng raid. The skulls
@@ -206,6 +209,7 @@ location, more than 35 warriors in total. A frontal raid would be more than
 suicidal. The players will need to think of a tactic to investigate this
 situation without being savagely murdered or captured.
 
+**** Mercenaries
 ***** Doern
 A short bowman with a gruff complexion. He seems distrustful at all times.
 
@@ -257,24 +261,67 @@ fur armor, garotte
 Tekket, the merciless woman. Years of disrespect and abuse have transformed
 her into the machine of war crimes she is today. Fear her.
 
-Com 35 5
-Bra 39 4
-Agi 32 3
+Com 40 6
+Bra 38 4
+Agi 40 6
 Per 40 4
 Fel 39 3
-Wil 42 4
+Wil 42 5
 
-Damage 8
-Peril 7
+Damage 10
+Peril 8
 
-Fencer's Panache
+Apalling Mien
+Clinch Fighter
+Lightning Reaction
+Gatecrasher
 
-Awareness I
-Martial Melee I
+Awareness II
+Martial Melee II
+Martial Ranged II
+Toughness II
+Intimidate II
+Coordination II
+
+mail armor, pike, crossbow, 15 bolts
+
+***** Kallo
+A thin Skrellyng, with long hair. Very brave.
+
+Com 37 3
+Bra 38 4
+Agi 31 4
+Per 37 3
+Fel 41 5
+Wil 45 6
+
+Damage 7
+Peril 9
+
+Simple Melee I
 Toughness I
-Intimidate I
+Stealth I
 Coordination I
 
-fur armor, rapier, wooden shield
+spear
 
+***** Xommo
+A thin Skrellyng, with long hair. Very brave.
+
+Com 40 3
+Bra 37 4
+Agi 36 4
+Per 37 3
+Fel 41 5
+Wil 45 6
+
+Damage 7
+Peril 9
+
+Simple Melee I
+Toughness I
+Stealth I
+Coordination I
+
+spear
 
