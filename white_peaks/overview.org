@@ -92,7 +92,7 @@ will only attack when provoked. If they successfully feed or otherwise
 befriend the bear, it will follow them and appear to help at the farmhouse
 battle.
 
-*** 3 Mercenaries
+*** 3 Mercenaries (mercs.org)
 You encounter a group of four men of war riding toward Bramhall. They are
 tense but in good spirits, hungry to fight. They are riding to offer their
 services to Lord Morton in his efforts to pacify the Skrellyng. If the
@@ -101,7 +101,7 @@ liquid loot encountered. They would also be happy to buy extra ammo or
 weapons, or sell the same in addition to possibly rendering the healer's
 services.
 
-*** 4 Slaughter
+*** 4 Slaughter (slaughter.org)
 You feel a grim darkness before you see it: just over the crest of a hill,
 you find what must be the remains of a merciless Skrellyng raid. The skulls
 of men lie cloven asunder, beside their sodden corpses slumped over in the
@@ -110,4 +110,22 @@ mud. The stench of rotting human flesh strengthens as you approach.
 Upon closer inspection, the travelers seem mostly likely to have been
 merchants. Their cart lies disused, the draft horses nowhere to be found.
 Perhaps they have been eaten by the savages. Several locked chests from the
-merchants have been
+merchants have been left mostly undisturbed, most likely too heavy to carry and
+too tedious to sunder. 
+
+*** 5 Bandits (bandits.org)
+Bandits have set up an ambush for unware travelers. Make a Hard Awareness
+check to spot it from a distance and a normal Awareness check to spot it just
+before the trap springs. The bandits have no afiliation with anyone and are
+little more than opportunistic peasants.
+
+*** 6 van Graff at the Farmhouse (farmhouse.org)
+The player party finally comes upon the occupied farmstead from which van
+Graff is orchestrating the invasion. The Skrellyng activity is so numerous
+the players will certainly notice them before being noticed themselves, and
+have a choice in how to proceed.
+
+There are obviously a very large number of Skrellyng present at this
+location, more than 35 warriors in total. A frontal raid would be more than
+suicidal. The players will need to think of a tactic to investigate this
+situation without being savagely murdered or captured.
