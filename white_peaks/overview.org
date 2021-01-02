@@ -111,13 +111,89 @@ Upon closer inspection, the travelers seem mostly likely to have been
 merchants. Their cart lies disused, the draft horses nowhere to be found.
 Perhaps they have been eaten by the savages. Several locked chests from the
 merchants have been left mostly undisturbed, most likely too heavy to carry and
-too tedious to sunder. 
+too tedious to sunder. (Arduous Coordination checks to unlock them)
+
+The chests contain 50g and 60g each, as well as several items from the rich
+pool.
 
 *** 5 Bandits (bandits.org)
 Bandits have set up an ambush for unware travelers. Make a Hard Awareness
 check to spot it from a distance and a normal Awareness check to spot it just
 before the trap springs. The bandits have no afiliation with anyone and are
 little more than opportunistic peasants.
+
+**** Bandits
+***** Haakon
+A long-faced bowman wearing a shabby sable jacket. Mostly likely stolen from
+a dead nobleman. 
+
+Com 41 5
+Bra 38 4
+Agi 37 3
+Per 36 4
+Fel 39 3
+Wil 42 4
+
+Damage 8
+Peril 7
+
+Cheap Shot
+
+Awareness I
+Martial Ranged I
+Toughness I
+Stealth I
+Coordination I
+
+fur armor, longbow, 20 arrows, dirk
+
+***** Mek
+A huge man with soulless eyes. You get the sense he has strangled many and
+regretted none.
+
+Com 41 5
+Bra 38 4
+Agi 37 3
+Per 36 4
+Fel 39 3
+Wil 42 4
+
+Damage 8
+Peril 7
+
+Hard to Kill
+
+Awareness I
+Simple Melee I
+Toughness I
+Stealth I
+Coordination I
+
+fur armor
+
+***** Lorn
+Lorn is unlike most other bandits; his fine face suggests a more privileged
+upbringing than expected for a ruffian. His eyes gleam with malice.
+
+Com 35 5
+Bra 39 4
+Agi 32 3
+Per 40 4
+Fel 39 3
+Wil 42 4
+
+Damage 8
+Peril 7
+
+Fencer's Panache
+
+Awareness I
+Martial Melee I
+Toughness I
+Intimidate I
+Coordination I
+
+fur armor, rapier, wooden shield
 
 *** 6 van Graff at the Farmhouse (farmhouse.org)
 The player party finally comes upon the occupied farmstead from which van
@@ -129,3 +205,76 @@ There are obviously a very large number of Skrellyng present at this
 location, more than 35 warriors in total. A frontal raid would be more than
 suicidal. The players will need to think of a tactic to investigate this
 situation without being savagely murdered or captured.
+
+***** Doern
+A short bowman with a gruff complexion. He seems distrustful at all times.
+
+Com 41 5
+Bra 38 4
+Agi 37 3
+Per 36 4
+Fel 39 3
+Wil 42 4
+
+Damage 9
+Peril 7
+
+Gruesome Shot
+
+Awareness I
+Martial Ranged I
+Toughness I
+Stealth I
+Coordination I
+
+mail armor, longbow, 20 arrows, dirk
+
+***** Korum
+A large and friendly-seeming man, built like a bear. His jovial nature belies
+the violence beneath.
+
+Com 41 5
+Bra 38 4
+Agi 37 3
+Per 36 4
+Fel 39 3
+Wil 42 4
+
+Damage 8
+Peril 7
+
+Hard to Kill
+
+Awareness I
+Simple Melee I
+Toughness I
+Stealth I
+Coordination I
+
+fur armor, garotte
+
+***** Tekket
+Tekket, the merciless woman. Years of disrespect and abuse have transformed
+her into the machine of war crimes she is today. Fear her.
+
+Com 35 5
+Bra 39 4
+Agi 32 3
+Per 40 4
+Fel 39 3
+Wil 42 4
+
+Damage 8
+Peril 7
+
+Fencer's Panache
+
+Awareness I
+Martial Melee I
+Toughness I
+Intimidate I
+Coordination I
+
+fur armor, rapier, wooden shield
+
+
