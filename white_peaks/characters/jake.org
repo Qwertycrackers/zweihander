@@ -14,9 +14,11 @@ Seizures: when taking peril, roll an easy Willpower test to avoid seizing
 Survival I
 Scruntinize I
 Education I
+Heal I
 
 ** Trappings
 tattered clothes
+hammer
 
 ** Prone
 
