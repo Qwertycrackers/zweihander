@@ -1,3 +1,47 @@
+* Standard skrelling
+** Stats
+CB: 35 4
+AB: 35 4
+BB: 35 4
+PR: 27 2
+IB: 15 1
+WB: 30 3
+FB: 30 3
+
+Dth 4
+Pth 3
+** Traits
+
+** Skill Ranks
+Survival I
+Martial Melee I OR  Martial Ranged I
+Simple Melee
+Coordination I
+Toughness I
+Navigation II
+Awareness I
+** Trappings
+Fur coats, moccasins, hatchet OR spear OR club OR bow and 10 arrows
+
+* Skrellyng Shaman
+** Stats
+CB: 35 3
+AB: 35 4
+BB: 35 3
+PR: 25 3
+IB: 35 5
+WB: 25 3
+FB: 20 3
+
+** Traits
+** Skill Ranks
+Incantation I
+Navigation II
+Education I
+
+** Trappings
+zweihander, mail armor (+4 threshhold), 1 arcane book(rolled or based on scenario)
+--------------------------------------------------------------------------
 **** Bandits
 ***** Haakon
 A long-faced bowman wearing a shabby sable jacket. Mostly likely stolen from
@@ -187,3 +231,40 @@ Stealth I
 Coordination I
 
 spear
+---------------------------------
+******Geela
+Preacher
+
+Com 40 4
+Bra 40 5
+Agi 35 3
+Int 44 6
+Per 35 5
+Fel 45 4
+Wil 45 5
+
+Dth 8
+Pth 8
+
+Fire and Brimstone
+Impervious Mind(When take peril take 1 less step)
+Worldy
+
+Charm I
+Folklore I
+Heal II
+Incantation II
+Leadership III
+
+Jewlery, Large Symbolic Hammer, Symbol of god Emperor & Leviathan
+
+Spells:
+Imperial Might
+Lionheart
+Unassailable Bulwark
+Breath of AEther
+
+
+
+
+
