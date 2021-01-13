@@ -5,11 +5,29 @@ BB: 20 2
 AG: 30 3
 PR: 40 5
 IB: 45 6
-WB: 25 2
+WB: 25 3
 FB: 30 3
 
+Dth 5
+Pth 6
+
+IF Jake trains:
+
+Com 35 5
+Bra 35 3
+Agi 40 6
+Per 45 5
+Int 45 6
+Wil 35 4
+Fel 35 3
+
+Dth 6
+Pth 7
+Gains Traits & Skill Ranks: Simple Ranged I, Leadership I, Resolve I, Tradecraft II, Eagle Eyes. Gruesome Shot
 ** Traits
 Seizures: when taking peril, roll an easy Willpower test to avoid seizing
+Eureaka: Flip to succeed at tradecraft and always crit succeed
+
 ** Skill Ranks
 Survival I
 Scruntinize I
@@ -20,8 +38,4 @@ Heal I
 tattered clothes
 hammer
 
-** Prone
 
-** Damage + Peril
-Lightly
-Unhindered
