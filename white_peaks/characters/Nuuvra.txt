@@ -1,0 +1,37 @@
+*Nuuvra
+ Wife to Van Graff and his accomplice in evil practices
+
+com 43 4
+bra 32 4
+agi 43 6
+per 46 6
+wil 51 7
+int 52 5
+fel 39 4
+
+**Traits & Talents
+Arcane & Divine Magick of the Crouching One
+Battle Magick
+Blood Magick
+Holdout
+
+***Ranks
+Incantation II
+Martial Ranged I
+Coordination II
+Guile III
+Heal II
+Awareness I
+Stealth II
+
+**Spells
+Worshiper of the crouching one with other arcane Spells
+Hat Trick - G
+Wither Limb - L
+His Dark Gift - P
+Metamorphosis - G
+Knife in the Dark - P
+Lustful Blade - L
+
+**Trappings
+Wytchstone Blade, Reagants for spells

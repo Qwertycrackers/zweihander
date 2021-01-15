@@ -37,5 +37,34 @@ Heal I
 ** Trappings
 tattered clothes
 hammer
+---------------------
+Jake - Fomari Huscral(pg 463)
+com 45 7
+bra 45 7
+agi 40 4
+per 45 5
+int 40 4
+wil 40 5
+fel 40 4
 
+**Traits
+Big Grim - 2 handed weapons can be 1 hand and use adaptable quality
+Chthonian Dweller - Do not need to breath so cannot be choked, move in water is same as land
+Fey Sight - Always see hidden Fey and can see in the dark
+Lamb to the Slaughter - When injure foe, inflict 2 injuries
 
+**Skills
+Intimidate II
+Interrogation I
+Martial Mellee II
+Martial Ranged II
+Resolve II
+Ride I
+Simple Melee I
+Simple Ranged I
+Survival I
+Toughness I 
+Warfare I
+
+**Trappings
+Zweihander as chunk of scale, chunk of scale serves as metal shield
