@@ -1,0 +1,70 @@
+*Fomori Thrall
+
+com 45 4
+bra 40 4
+agi 50 7
+per 45 5
+int 35 3
+wil 40 5
+fel 40 4
+
+**Other
+Pth 8
+Dth 6
+Parry 55
+Dod 70
+
+**Skills
+Athletics I
+Awareness I
+Coordination I
+Intimidate I
+Resolve I
+Simple Melee I
+Simple Ranged I
+Survival I
+Toughness I
+Tradecraft I
+**Traits
+Chthonian Dweller - Do not need to breath so cannot be choked, move in water is same as land
+Fey Sight - Always see hidden Fey and can see in the dark
+Perfect Camouflage - Flip to fail when targeted with ranged weapons
+Natural Armor(2)
+**Trappings
+Dirk, Sling, Sling stones(9)
+
+*Fomori Huscral(Leader)
+
+com 50 7
+bra 45 7
+agi 40 4
+per 45 5
+int 35 3
+wil 40 5
+fel 40 4
+
+**Other
+Dth 12
+Pth 8
+Parry 80
+Dod 50
+
+**Skills
+Intimidate II
+Interrogation I
+Martial Melee II
+Martial Ranged II
+Resolve II
+Ride I
+Simple melee II
+Simple Ranged I
+Survival I
+Toughness I
+Warfare II
+**Traits
+Big Grim - 2 handed weapons can be 1 hand and use adaptable quality
+Chthonian Dweller - Do not need to breath so cannot be choked, move in water is same as land
+Fey Sight - Always see hidden Fey and can see in the dark
+Lamb to the Slaughter - When injure foe, inflict 2 injuries
+**Trappings
+Metal Shield, War Trophies(3), Zweihander

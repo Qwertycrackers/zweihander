@@ -9,7 +9,7 @@ WB: 30 3
 FB: 30 3
 
 Dth 4
-Pth 3
+Pth 6
 ** Traits
 
 ** Skill Ranks
@@ -30,10 +30,13 @@ AB: 35 4
 BB: 35 3
 PR: 25 3
 IB: 35 5
-WB: 25 3
+WB: 35 4
 FB: 20 3
 
+Dth 3
+Pth 7
 ** Traits
+Blood Magick
 ** Skill Ranks
 Incantation I
 Navigation II

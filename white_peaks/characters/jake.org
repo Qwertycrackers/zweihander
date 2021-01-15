@@ -38,6 +38,7 @@ Heal I
 tattered clothes
 hammer
 ---------------------
+
 Jake - Fomari Huscral(pg 463)
 com 45 7
 bra 45 7
@@ -47,11 +48,14 @@ int 40 4
 wil 40 5
 fel 40 4
 
+Dth 12
+Pth 8
 **Traits
 Big Grim - 2 handed weapons can be 1 hand and use adaptable quality
 Chthonian Dweller - Do not need to breath so cannot be choked, move in water is same as land
 Fey Sight - Always see hidden Fey and can see in the dark
 Lamb to the Slaughter - When injure foe, inflict 2 injuries
+Natural Armor(5) - Plus 5 to Dth
 
 **Skills
 Intimidate II
