@@ -1,0 +1,43 @@
+*** Villagers
+
+**Thomas
+com 47
+bra 40
+agi 33
+per 36
+wil 49
+int 33
+fel 43
+
+Dth 4+1
+Pth 7
+*Trappings
+Shortsword, quilted armor
+
+**Freks
+com 50
+bra 40
+agi 47
+per 51
+wil 47
+int 42
+fel 37
+
+Dth 4+1
+Pth 7
+*Trappings
+Shortsword, quilted armor
+
+**Shimo
+com 49
+bra 41
+agi 48
+per 37
+wil 43
+int 50
+fel 38
+
+Dth 4+2
+Pth 7
+*Trappings
+Bow, Arrows(10), Leather armor
