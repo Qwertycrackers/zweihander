@@ -1,0 +1,101 @@
+***6
+
+Thrall 3
+U-
+M-X
+S-
+G-
+Slain-
+
+
+Thrall 4
+U-
+M-X
+S-X
+G-
+Slain-X
+
+Geela
+U-
+L-X
+M-X
+S-X
+G-X
+Slain-X
+
+
+Initiative:
+Ivan
+Alek
+Bernard
+Sergey
+Nayum X
+Fomori
+Jake
+Peter
+Geela
+
+Barg 1:
+UX
+LX
+MX
+SX
+G
+Sla
+
+Barg 2:
+UX
+LX
+MX
+SX
+GX
+Sla
+
+Barg 3:
+U
+L
+M
+S
+G
+Sla
+
+Barg 4:
+U
+L
+M
+S
+G
+Sla
+
+Barg 5:
+U
+L
+M
+S
+G
+Sla
+
+Barg 6:
+U
+LX
+M
+S
+G
+Sla
+
+Barg 7: -Mov 3	
+U X
+L X
+M X
+SX
+G
+Sla
+
+Intitiative:
+Jake
+Sergey
+Bernard
+Ivan
+Alek
+Peter
+Barghests

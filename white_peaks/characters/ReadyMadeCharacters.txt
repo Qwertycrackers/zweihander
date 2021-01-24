@@ -119,7 +119,7 @@ Coordination I
 fur armor, rapier, wooden shield
 ----------------------------------------------------------
 **** Mercenaries
-***** Doern
+***** Doern -- Dead
 A short bowman with a gruff complexion. He seems distrustful at all times. 
 Assistant to Van Graff, planner of small battles for Graff
 
@@ -181,10 +181,10 @@ Wil 42 5
 Damage 10
 Peril 8
 
-Apalling Mien
-Clinch Fighter
-Lightning Reaction
-Gatecrasher
+Apalling Mien - When succeed Intim test --> other cannot attack until succeed resolve
+Clinch Fighter - Foe -10 chanse to resist dirty tricks and chokehold. Add 1D10 in chokeholds
+Lightning Reaction - Gain 1 additional AP
+Gatecrasher - When take aim and successful melee, +3 damage
 
 Awareness II
 Martial Melee II
