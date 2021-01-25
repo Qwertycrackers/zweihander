@@ -86,7 +86,7 @@ plunder were now only a young savage's whimsy away. The family is hungry, low
 on food, and needs medicine for the children and wife. They ask if you can
 spare any of these things, and if the player help them. 
 
-*** 2 Bear
+*** 2 Bear *** Completed
 A bear appears in the distance. Roll awareness to notice it. If the bear
 notices them, 80% that it is hungry and immediately aggressive. Otherwise it
 will only attack when provoked. If they successfully feed or otherwise
@@ -127,7 +127,7 @@ little more than opportunistic peasants.
 
 
 
-*** 6 van Graff at the Farmhouse (farmhouse.org)
+*** 6 van Graff at the Farmhouse (farmhouse.org) ***Completed but didn't meet Van Graff
 The player party finally comes upon the occupied farmstead from which van
 Graff is orchestrating the invasion. The Skrellyng activity is so numerous
 the players will certainly notice them before being noticed themselves, and
@@ -139,9 +139,8 @@ suicidal. The players will need to think of a tactic to investigate this
 situation without being savagely murdered or captured.
 ----------------------------------------------------------------------------
 
-***Sea Village in Peril(Invaded by Fomaris) - Jake's Awakening
+***Sea Village in Peril(Invaded by Fomaris) - Jake's Awakening ****Completed
 The party is travelling along a road when approached by a young boy who looks badly beaten up and he asks the party if they will save his village from destruction. If inquired, he will say that the fish are attacking. When they arrive at the village they see the village cleric(Geela) shaking at the church and many buildings are destroyed. As they approach the village, Jake's skin gains a greenish hue to it. When asked about whats happening, the cleric will say he held them off for many years but he can't pay them forever. He says creatures will come and destroy the village in 2 days time if sacrifices are not brought in time. The party has the option to bring sacrifices or fight. If sacrifices are brought, need 20 people or 30 sheep/cattle. If fight, cleric joins them, and 3 Fomari Thralls and 1 Fomori Huscral(pg 463 stats). When Jake sees this or gets very close to the ocean, he will grow to monstrous heights and convert into a Fomari Thrall, although he is still conscious of his actions, he drops 1 peril level, keeps old skills but gains new traits and stats.
-
 
 ***The Mine of Salt
 Van Graff has nefarious intentions using an insane amount of Epsom Salts, to do this he has Screelings working at a mine mining and making epsom salts. The Party's goal is to destroy the mine and ruin his plans. Most of the workers have been forced into labor and if successful infiltration will join in destroying the mine and battle. Most Screelings here are pretty weak because their only job is to mine the Salt.
@@ -149,6 +148,15 @@ Van Graff has nefarious intentions using an insane amount of Epsom Salts, to do 
 ***Coastal Screeling Camp
 There is a Screeling camp near the sea gathering strength for oncoming battles further down the coast, taking out this camp would give Kriedmark Troops a chance to tear the Screeling land in 2. 
 
-***WytchStone Caravan
+***WytchStone Line   ****Completed
+Fight off numerous Barghests and will continue calling more soon calling the bear barghest that will be larger and much stronger than the rest of them
 
+------------------------------------------------------------
+***Since they have been gone
+News of Connor's disapperance have spread and crime has taken a deep hold on a lot of the city. Morton Bram's power and rank is now doubted and the Nobility will be having a meeting(Including Reginald Swag) deciding whether to remove Morton of not and who to put in power. Alek's friend Sage Saruman has substantially gained power in crime rings and thanks Alek for his efforts against the government.
 
+***Interaction with Count Morton Bram
+Morton is furious that Conner has abandoned his people. He is very interested in the plans that they retrieve and will now make "easy" warfare checks from now on. They start to prepare for battle and Morton introduces them to his war General Creeum and Creeum takes a liking to Bernard. Morton give them gang more money to fund their ventures and tell them to bring his boy home. He expresses concerns about the posibility of an uprising and requests for them to quell it for a handsome reward.
+
+***Crime Layer
+They have been able to take more control over the city because the nobles have left and took their mercenaries with them who usualy kept order. Alek Moonshine has an in with them and knows the now leader Sage Saruman. If they try to stop crime from taking hold they mayt have to fight their way out if talking doesn't work.
