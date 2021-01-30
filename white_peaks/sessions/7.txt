@@ -1,67 +1,36 @@
 ***7
 
 Intitiative:
-Jake
-Sergey
-Bernard
-Ivan
-Alek
-Peter
-Barghests
+Alek 17
+Bernard 15
+Peter 15
+Nayum 14
+Screelings 12
+Sergey 9
 
 **Health
-Barg 1:
-UX
-LX
-MX
-SX
-G
-Sla
 
-Barg 2:
-UX
-LX
-MX
-SX
-GX
-Sla
+Screelings 1: Sword
 
-Barg 3:
-U
-L
-M
-S
-G
-Sla
+Screelings 2:Sword
 
-Barg 4:
-U
-L
-M
-S
-G
-Sla
+Screelings 3: Sword
 
-Barg 5:
-U
-L
-M
-S
-G
-Sla
+Screelings 4: Bow
 
-Barg 6:
-U
-LX
-M
-S
-G
-Sla
+Screelings 5: Bow
 
-Barg 7: -Mov 3	
-U X
-L X
-M X
-SX
-G
-Sla
+Screelings 6: Bow
+
+Screelings 7: Spear
+
+Screelings 8: Spear
+
+
+
+Screeling Leader 1: Longbow
+
+Screeling Leader 2: Longbow
+
+Screeling Leader 3: Longbow
+

@@ -37,6 +37,7 @@ Heal I
 ** Trappings
 tattered clothes
 hammer
+Bandages (3)
 ---------------------
 
 Jake - Fomari Huscral(pg 463)
@@ -70,5 +71,15 @@ Survival I
 Toughness I 
 Warfare I
 
+U X
+L 
+M 
+S
+G
+Sla
+
 **Trappings
 Zweihander as chunk of scale, chunk of scale serves as metal shield
+
+Transforms Left:
+III

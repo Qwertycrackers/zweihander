@@ -3,9 +3,9 @@
 Thrall 3
 U-
 M-X
-S-
-G-
-Slain-
+S-X
+G-X
+Slain-X
 
 
 Thrall 4
@@ -20,8 +20,8 @@ U-
 L-X
 M-X
 S-X
-G-X
-Slain-X
+G-
+Slain-
 
 
 Initiative:
