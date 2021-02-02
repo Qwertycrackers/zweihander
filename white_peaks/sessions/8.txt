@@ -1,0 +1,33 @@
+***8
+Intitiative:
+Alek 17
+Bernard 15
+Peter 15
+Nayum 14
+Screelings 12
+Sergey 9
+
+**Health
+
+B Screeling 1: T 2
+	U
+B Screeling 2: T 1
+	U
+B Screeling 3: T 1
+	U
+B Screeling 5: T 2
+	U
+B Screeling 7: T 3
+	U
+B Screeling 8: T 3
+	U
+
+Screeling Leader 1: T 1
+	U
+Screeling Leader 2: T 3
+	U
+Screeling Leader 3: T 2
+	U
+
+Shaman: Animism
+	U

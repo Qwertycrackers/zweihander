@@ -10,27 +10,25 @@ Sergey 9
 
 **Health
 
-Screelings 1: Sword
+B Screeling 1: T 2
+	U
+B Screeling 2: T 1
+	U
+B Screeling 3: T 1
+	U
+B Screeling 5: T 2
+	U
+B Screeling 7: T 3
+	U
+B Screeling 8: T 3
+	U
 
-Screelings 2:Sword
+Screeling Leader 1: T 1
+	U
+Screeling Leader 2: T 3
+	U
+Screeling Leader 3: T 2
+	U
 
-Screelings 3: Sword
-
-Screelings 4: Bow
-
-Screelings 5: Bow
-
-Screelings 6: Bow
-
-Screelings 7: Spear
-
-Screelings 8: Spear
-
-
-
-Screeling Leader 1: Longbow
-
-Screeling Leader 2: Longbow
-
-Screeling Leader 3: Longbow
-
+Shaman: Animism
+	U

@@ -23,15 +23,39 @@ Awareness I
 ** Trappings
 Fur coats, moccasins, hatchet OR spear OR club OR bow and 10 arrows
 
+*Leader Screeling
+**Stats
+CB 40 5
+BB 40 5
+AB 35 4
+PB 30 3
+IB 20 2
+WB 30 4
+FB 35 4
+
+DtH 10
+PtH 7
+**Traits
+
+**Skill Ranks
+Martial Melee II
+Martial Ranged I
+Survival II
+Leadership I
+Awareness II
+Warfare I
+**Trappings
+Mortuary Sword or warhammer & 3 Bolas, Munitions Plate(5)
+
 * Skrellyng Shaman
 ** Stats
-CB: 35 3
-AB: 35 4
-BB: 35 3
-PR: 25 3
-IB: 35 5
-WB: 35 4
-FB: 20 3
+CB: 30 3
+AB: 40 5
+BB: 30 3
+PR: 35 3
+IB: 40 6
+WB: 40 5
+FB: 25 3
 
 Dth 3
 Pth 7
