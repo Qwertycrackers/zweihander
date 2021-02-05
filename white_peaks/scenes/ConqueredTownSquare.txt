@@ -1,0 +1,47 @@
+***Conquered Town Square
+
+**Summary
+
+**Health
+
+*Basic Screelings
+B Screeling 1: T 1
+	U
+B Screeling 2: T 1
+	U
+B Screeling 3: T 1
+	U
+B Screeling 4: T 1
+	U
+B Screeling 5: T 2
+	U
+B Screeling 6: T 2
+	U
+B Screeling 7: T 3
+	U
+
+*Leader Screelings
+L Screeling 1: T 1
+	U
+L Screeling 2: T 1
+	U
+L Screeling 3: T 1
+	U
+L Screeling 4: T 3
+	U
+
+*Shaman Screelings
+S Screeling 1:
+	U
+S Screeling 2:
+	U
+S Screeling 3:
+	U
+S Screeling 4:
+	U
+S Screeling 5:
+	U
+S Screeling 6:
+	U
+S Screeling 7:
+	U

@@ -1,0 +1,46 @@
+***CoastalCampEncounter
+**Summary
+
+**Health
+
+*Basic Screelings
+B Screeling 1:
+	U
+B Screeling 2:
+	U
+B Screeling 3:
+	U
+B Screeling 4:
+	U
+B Screeling 5:
+	U
+B Screeling 6:
+	U
+B Screeling 7:
+	U
+B Screeling 8:
+	U
+B Screeling 9:
+	U
+B Screeling 10:
+	U
+B Screeling 11:
+	U
+B Screeling 12:
+	U
+
+*Leader Screelings
+L Screeling 1:
+	U
+L Screeling 2:
+	U
+L Screeling 3:
+	U
+L Screeling 4:
+	U
+L Screeling 5:
+	U
+L Screeling 6:
+	U
+L Screeling 7:
+	U

@@ -1,0 +1,70 @@
+***Salt Mine Encounter
+**Summary
+
+**Health
+*Basic Screelings
+B Screeling 1: T 3
+	U
+B Screeling 2: T 3
+	U
+B Screeling 3: T 3
+	U
+B Screeling 4: T 3
+	U
+B Screeling 5: T 3
+	U
+B Screeling 6: T 3
+	U
+B Screeling 7: T 3
+	U
+B Screeling 8: T 2
+	U
+B Screeling 9: T 2
+	U
+B Screeling 10: T 2
+	U
+B Screeling 11: T 1
+	U
+B Screeling 12: T 2
+	U
+B Screeling 13: T 1
+	U
+B Screeling 14: T 2
+	U
+B Screeling 15: T 2
+	U
+B Screeling 16: T 1
+	U
+B Screeling 17: T 2
+	U
+B Screeling 18: T 1
+	U
+B Screeling 19: T 3
+	U
+B Screeling 20: T 3
+	U
+
+*Leader Screelings
+L Screeling 1: T 3
+	U
+L Screeling 2: T 3
+	U
+L Screeling 3: T 3
+	U
+L Screeling 4: T 3
+	U
+L Screeling 5: T 3
+	U
+L Screeling 6: T 2
+	U
+L Screeling 7: T 2
+	U
+L Screeling 8: T 2
+	U
+L Screeling 9: T 2
+	U
+L Screeling 10: T 2
+	U
+
+
+
