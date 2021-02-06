@@ -29,5 +29,9 @@ Screeling Leader 2: T 3
 Screeling Leader 3: T 2
 	U
 
-Shaman: Animism
+Shaman: Pyromancy
 	U
+Bolt of Flame:P 1D10+WB
+Flaming Swords
+Dragon's Breath:G Cone 3D10+WB
+Shut Eye: Gen Helpless until succeed awareness test
