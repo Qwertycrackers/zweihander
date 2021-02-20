@@ -202,8 +202,8 @@ Per 40 4
 Fel 39 3
 Wil 42 5
 
-Damage 10
-Peril 8
+Dth 10
+Pth 8
 
 Apalling Mien - When succeed Intim test --> other cannot attack until succeed resolve
 Clinch Fighter - Foe -10 chanse to resist dirty tricks and chokehold. Add 1D10 in chokeholds
