@@ -4,11 +4,15 @@ Alek 17
 Bernard 15
 Peter 15
 Nayum 14
-Screelings 12
+Ivan 13
+Sha Screeling 13
+B Screelings 12
 Sergey 9
-
+L Screelings 7
+z
 **Health
 
+*B Screelings
 B Screeling 1: T 2
 	U
 B Screeling 2: T 1
@@ -16,21 +20,21 @@ B Screeling 2: T 1
 B Screeling 3: T 1
 	U
 B Screeling 5: T 2
-	U
+	S
 B Screeling 7: T 3
 	U
 B Screeling 8: T 3
 	U
-
+*Leader Screelings
 Screeling Leader 1: T 1
 	U
 Screeling Leader 2: T 3
 	U
 Screeling Leader 3: T 2
-	U
-
+	L
+*Shaman Screeling
 Shaman: Pyromancy
-	U
+	Slain
 Bolt of Flame:P 1D10+WB
 Flaming Swords
 Dragon's Breath:G Cone 3D10+WB
