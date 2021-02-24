@@ -39,3 +39,6 @@ Bolt of Flame:P 1D10+WB
 Flaming Swords
 Dragon's Breath:G Cone 3D10+WB
 Shut Eye: Gen Helpless until succeed awareness test
+
+Suffocating growth: L Divine Demi
+Thunderclap: L Divine Demi
