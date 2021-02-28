@@ -1,0 +1,44 @@
+*10
+
+Initiative:
+
+
+Peter - 12
+Nayum - 9
+Leader - 4
+Bernard- 17
+Standard - 5
+Fire - 1
+
+
+**Health
+
+*Basic Screelings
+B Screeling 1: 1
+	U
+B Screeling 2: 1
+	U
+B Screeling 3: 3
+	U
+B Screeling 4: 2 Unconcious
+	G
+B Screeling 8: 3
+	U
+B Screeling 9: 2
+	U
+B Screeling 10: 3
+	U
+B Screeling 11: 1
+	U
+B Screeling 12:
+	Slain
+
+*Leader Screelings
+L Screeling 1: 1
+	M
+L Screeling 2: 1
+	L
+L Screeling 6: 3
+	U
+L Screeling 7: 2
+	L
