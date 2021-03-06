@@ -196,8 +196,8 @@ Tekket, the merciless woman. Years of disrespect and abuse have transformed
 her into the machine of war crimes she is today. Fear her.
 
 Com 40 6
-Bra 38 4
-Agi 40 6
+Bra 38 5
+Agi 40 7
 Per 40 4
 Fel 39 3
 Wil 42 5

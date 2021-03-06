@@ -1,11 +1,11 @@
 *Nuuvra
  Wife to Van Graff and his accomplice in evil practices
 
-com 43 4
-bra 32 4
+com 43 7
+bra 32 5
 agi 43 6
 per 46 6
-wil 51 7
+wil 51 8
 int 52 5
 fel 39 4
 
@@ -16,7 +16,7 @@ Blood Magick
 Holdout
 
 ***Ranks
-Incantation II
+Incantation III
 Martial Ranged I
 Coordination II
 Guile III

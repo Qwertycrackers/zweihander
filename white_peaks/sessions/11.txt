@@ -1,0 +1,62 @@
+*11
+
+If more than 4 people playing, more Skreelings will show up.
+Further investigation of the leader's 
+**Initiative:
+Peter - 12
+Nayum - 9
+Leader - 4
+Bernard- 17
+Standard - 5
+Fire - 1
+
+**Health
+
+*Basic Screelings
+B Screeling 1: 1
+	U
+B Screeling 2: 1
+	U
+B Screeling 3: 3
+	U
+B Screeling 4: 2 Unconcious
+	G
+B Screeling 8: 3
+	U
+B Screeling 9: 2
+	U
+B Screeling 10: 3
+	U
+B Screeling 11: 1
+	U
+B Screeling 12:
+	Slain
+
+*Leader Screelings
+L Screeling 1: 1
+	M
+L Screeling 2: 1
+	L
+L Screeling 6: 3
+	U
+L Screeling 7: 2
+	L
+
+*Archers:
+Basic 1:
+	U
+Basic 2:
+	U
+Basic 3:
+	U
+Basic 4:
+	U
+Basic 5:
+	U
+Basic 6:
+	U
+
+L Screeling 8: T 1
+	U
+L Screeling 9: T 2
+	U
