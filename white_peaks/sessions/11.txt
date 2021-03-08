@@ -3,10 +3,13 @@
 If more than 4 people playing, more Skreelings will show up.
 Further investigation of the leader's 
 **Initiative:
+Metu - 13
 Peter - 12
+Alek - 10
+Jake - 
+Bernard -17
 Nayum - 9
 Leader - 4
-Bernard- 17
 Standard - 5
 Fire - 1
 
@@ -14,11 +17,11 @@ Fire - 1
 
 *Basic Screelings
 B Screeling 1: 1
-	U
+	L
 B Screeling 2: 1
-	U
+	M
 B Screeling 3: 3
-	U
+	L
 B Screeling 4: 2 Unconcious
 	G
 B Screeling 8: 3
@@ -37,13 +40,13 @@ L Screeling 1: 1
 	M
 L Screeling 2: 1
 	L
-L Screeling 6: 3
-	U
-L Screeling 7: 2
+L Screeling 3: 3
 	L
+L Screeling 7: 2
+	A
 
 *Archers:
-Basic 1:
+Basic 1: broken
 	U
 Basic 2:
 	U
@@ -57,6 +60,6 @@ Basic 6:
 	U
 
 L Screeling 8: T 1
-	U
+	L
 L Screeling 9: T 2
 	U
